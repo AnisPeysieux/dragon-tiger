@@ -1,0 +1,5 @@
+Compiler for the Tiger language.
+
+It was completed during a course of compilation (https://compilation-course.github.io/).
+Needs LLVM between 3.8 and 7.9.
+
